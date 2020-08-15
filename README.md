@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/onuratci/onuratci.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/onuratci/onuratci.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## About Me
+# Experiences:
+    - Current: Development Coordinator @ Argela
+    - Past: Development Manager & Cloud Architect @ COMODO Turkey
+    - 10+ Years of Software Development Experience
+    - 3+ Years Scrum & Agile Development Team Management Experience.
+# Specialties:
+    - Amazon Web Services Early Adopter
+    - J2EE Application Development
+    - Development of Sip,VOIP and IVR applications.
+    - Async realtime client-server communication, Atmosphere Framework and Async servlets.
+    - Configuration and development JVM applications for Docker instances.
+    - Android/iOS mobile client applications and server side api development.Android/iOS apps publishing and embedding process.
+    - Digital Signatures and knowledge of cryptography standards.
+    - Scalable and easy to manage Web Based Software development with PHP(Zend framework) and JSP
+    - Linux Server Management (Apache/Nginx Http Servers, Dovecot,Postfix,MySQL, Apache Tomcat, Cron Jobs and Backup Tasks,Fail2Ban,DRBD based MySQL Clustering,Linux bash scripting,Rsyslog log rotation and log redirection, Mcafee Email Gateway Management)
+    - Patching and rebuilding source rpm packages for Centos, Redhat and Oracle Linux. -C++ development for linux operating systems and building rpm packages on linux.
+    - Memcached protocol implementation in java for providing memcached service in traditional SQL database projects. Experienced on:
+    - Programming Languages and Frameworks: Java, Android, Spring, JSP,PHP,C#,C++,Node JS,JQuery,HTML,CSS,Asp.Net, JPA, Quartz,Loj4J,Ionic,PhoneGap (Apache Cordova),C++
+    - Development Tools: IntelliJ Idea,Eclipse, Android Studio & ADT, Netbeans,XCode, Visual Studio, SOAP UI, MySQL Workbech, Selenium Automated Testing Tool.
+    - General Development Tools: Git, SVN, Jira, Jenkins, Redmine, Maven
+    - Databases: Mysql, Oracle, PostgreSQL,Memcached,MongoDB,SqLite
+## Support or Contact
+Email: onuratci @ icloud.com
